@@ -1,5 +1,5 @@
-### Global Investment in Renewable Energy:
-## Data Analysis and Visualization of Carbon Emissions, Renewable Energy Generation and Consumption by Country 
+# Global Investment in Renewable Energy:
+### Data Analysis and Visualization of Carbon Emissions, Renewable Energy Generation and Consumption by Country 
 
 ## Team Members
 - Corey McCulley
