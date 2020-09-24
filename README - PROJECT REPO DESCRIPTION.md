@@ -23,6 +23,8 @@ Renewable_Energy_Analysis_CM.ipynb - Contains the analysis performed by Corey fo
 ## Presentation Notes
 The following contains each persons contribution to the presentation:
 
-Corey - Created and wrote conclusions for the Renewable Energy (Part 3) of the presentation. Also Wrote out all the flaws we found when collecting, analyzing and presenting our data and results.
+Corey - Created and wrote conclusions for the Renewable Energy (Part 3) of the presentation. Thought  out the flaws we found when collecting, analyzing and presenting our data and results. 
 
 ## Report Notes
+
+Corey - Created and wrote conclusions for the Renewable Energy (Part 3) of the presentation. Thought  out the flaws we found when collecting, analyzing and presenting our data and results. 
